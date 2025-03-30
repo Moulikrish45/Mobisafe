@@ -8,8 +8,8 @@ venv/
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-requirements.txt
-.env
+# requirements.txt
+# .env
 
 # Django
 __pycache__/
